@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=SeniorDesign1.LibPkg
+[Project2]
+ProjectPath=Motor_Control.PrjPcb
+[Project3]
+ProjectPath=Project Outputs for SeniorDesign1\Imported MAX4427MJA.lia\MAX4427MJA.LibPkg
