@@ -1,2 +1,2 @@
-# Senior-Design-Files
-Autonomous RC Car PCB (bluetooth, motor control, steering, power)
+# ControlBoard-Altium-Files
+Autonomous RC Car Project PCB (bluetooth, motor control, steering, power)
